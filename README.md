@@ -21,7 +21,7 @@ Background
 Preply is a global online tutoring marketplace (founded 2012, 100,000+ tutors, 180+ countries, $1.2B valuation as of 2026) where tutors set their own rates and compete for visibility among tens of thousands of peers. I'm one of those tutors, and separately, a self-taught data analyst. This project is where those two sides met: instead of leaving pricing to instinct, I applied real analytical rigor to my own business.
 
 What's in This Repo
-Preply Pricing Strategy Tutor Decision Brief.md — full executive summary: decision, evidence, recommendations, caveats, and outlook
+[Preply Pricing Strategy Tutor Decision Brief.md —](https://github.com/AnzylMailula/Preply-Tutor-Pricing-Strategy-/blob/main/Preply%20Pricing%20Strategy%20Tutor%20Decision%20Brief.pdf)
 Data Cleaning Notes and Technical steps .md — full technical writeup: Power Query cleaning pipeline, DAX measures, data model
 [[PreplyBusinessIntel].pbix — the Power BI dashboard](https://github.com/AnzylMailula/Preply-Tutor-Pricing-Strategy-/blob/main/PreplyBusinessIntel.pbix)
 <img width="763" height="428" alt="image" src="https://github.com/user-attachments/assets/1390b2b9-9a17-4de6-85d7-e11b787f89ed" />
