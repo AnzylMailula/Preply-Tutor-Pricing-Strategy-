@@ -1,10 +1,10 @@
 From $5 to $25: A Pricing Strategy Case Study
 
-I used two years of my own Preply tutoring data to test whether temporary price reductions could grow a sustainable student base — and whether rising prices could buy back my time without costing me income.
+I used two years of my own Preply tutoring data to test whether temporary price reductions could grow a sustainable student base and whether rising prices could buy back my time without costing me income.
 
 The Decision
 
-Progressively increase price over time (from $5 to $25), using temporary price reductions as a recovery tool whenever acquisition weakens at a new price ceiling, then pushing higher again — working toward a sustainable target of 8–9 hours a day, 5 days a week, instead of the higher-volume, longer-hours pattern low pricing originally required.
+Progressively increase price over time (from $5 to $25), using temporary price reductions as a recovery tool whenever acquisition weakens at a new price ceiling, then pushing higher again working toward a sustainable target of 8–9 hours a day, 5 days a week, instead of the higher-volume, longer-hours pattern low pricing originally required.
 
 Headline Results:
 Metric	Result
@@ -23,7 +23,7 @@ Preply is a global online tutoring marketplace (founded 2012, 100,000+ tutors, 1
 What's in This Repo
 Preply Pricing Strategy Tutor Decision Brief.md — full executive summary: decision, evidence, recommendations, caveats, and outlook
 Data Cleaning Notes and Technical steps .md — full technical writeup: Power Query cleaning pipeline, DAX measures, data model
-[PreplyBusinessIntel].pbix — the Power BI dashboard
+[[PreplyBusinessIntel].pbix — the Power BI dashboard](https://github.com/AnzylMailula/Preply-Tutor-Pricing-Strategy-/blob/main/PreplyBusinessIntel.pbix)
 <img width="763" height="428" alt="image" src="https://github.com/user-attachments/assets/1390b2b9-9a17-4de6-85d7-e11b787f89ed" />
 
 
