@@ -22,10 +22,9 @@ Preply is a global online tutoring marketplace (founded 2012, 100,000+ tutors, 1
 
 What's in This Repo
 [Preply Pricing Strategy Tutor Decision Brief.md —](https://github.com/AnzylMailula/Preply-Tutor-Pricing-Strategy-/blob/main/Preply%20Pricing%20Strategy%20Tutor%20Decision%20Brief.pdf)
-Data Cleaning Notes and Technical steps .md — full technical writeup: Power Query cleaning pipeline, DAX measures, data model
+[Data Cleaning Notes and Technical steps .md — full technical writeup: Power Query cleaning pipeline, DAX measures, data model](https://github.com/AnzylMailula/Preply-Tutor-Pricing-Strategy-/blob/main/Data%20Cleaning%20Notes%20and%20Technical%20steps.pdf)
 [[PreplyBusinessIntel].pbix — the Power BI dashboard](https://github.com/AnzylMailula/Preply-Tutor-Pricing-Strategy-/blob/main/PreplyBusinessIntel.pbix)
 <img width="763" height="428" alt="image" src="https://github.com/user-attachments/assets/1390b2b9-9a17-4de6-85d7-e11b787f89ed" />
-
 
 Key Findings:
 Price directly drove acquisition volume. $9 in March 2025 produced 28 new students; $16 in the same month produced 1.
